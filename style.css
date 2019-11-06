@@ -1,0 +1,73 @@
+body {
+    line-height: 2.8rem;
+    margin: 0;
+    padding: 0;
+}
+
+.primer {
+    padding: 250px;
+
+}
+
+.seg {
+    padding: 250px;
+}
+
+p {
+    font-size: 25px;
+    margin-bottom: 10px;
+
+}
+
+h1 {
+    font-family: Georgia, 'Times New Roman', Times, serif;
+    font-size: 50px;
+}
+
+h2 {
+    font-size: 40px;
+}
+
+
+img {
+    width: 90%;
+    height: 80%;
+}
+
+.first-link {
+    margin-top: 10px;
+    text-align: center;
+
+    color: rgb(87, 71, 179);
+}
+
+.link {
+    color: black;
+}
+
+
+
+.big {
+    color: #757575;
+    font-size: 2rem;
+    padding: 40px;
+
+}
+
+.black {
+    color: black;
+}
+
+.highlight {
+
+    background-color: #f3ebeb;
+    display: inline;
+    font-size: 40px;
+    color: #757575;
+
+
+}
+
+.highlight:hover {
+    background-color: #e2dede;
+}
