@@ -10,7 +10,7 @@ body {
 }
 
 .seg {
-    padding: 250px;
+    padding: 280px;
 }
 
 p {
@@ -70,4 +70,9 @@ img {
 
 .highlight:hover {
     background-color: #e2dede;
+}
+
+pre {
+    background-color: #F2F2F2;
+    font-size: 20px;
 }
